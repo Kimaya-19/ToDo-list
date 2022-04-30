@@ -1,2 +1,2 @@
-# ToDo-list
-This is Repository
+# todo-list
+This is repository
